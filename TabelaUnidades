@@ -1,0 +1,37 @@
+UNIDADE;BLOCO;SIGLA;CÓDIGO SAP;CENTRO;RAZÃO SOCIAL;CNPJ;ENDEREÇO;CIDADE
+AutoBAn;N/A;AB/ATB;1400;AB01;CONCESSIONARIA DO SISTEMA ANHANGUERA-BANDEIRANTES S/A;02.451.848/0001-62;Av. Profª. Maria do Carmo Guimarães Pellegrini, 200 - Retiro, Jundiaí-SP. 13209-500;Jundiaí-SP
+Aeroporto de Bacacheri;Bloco Sul;BC/BFH ;4000;GS10;Concessionaria do Bloco Sul S.a.;42.130.537/0010-07;Rua Trajano da Costa Pereira, 348 - Curitiba-PR. 82515-410;Curitiba-PR
+Aeroporto de Bagé;Bloco Sul;BG/BGX;4000;GS04;Concessionaria do Bloco Sul S.a.;42.130.537/0004-69;Rua Quatorze Bis, S/N, Comandante Gustavo Kramer - Bagé-RS. 96422-250;Bagé-RS
+Sede Bloco Central;Bloco Central;GC;4100;GC01;Concessionaria do Bloco Central S.a.;42.206.269/0001-79;Rua Pais Leme, 524 - 4º Andar - Pinheiros, São Paulo-SP. 05424-010;São Paulo-SP
+Sede Bloco Sul;Bloco Sul;GS;4000;GS01;Concessionaria do Bloco Sul S.a.;42.130.537/0001-16;Rua Pais Leme, 524 - 4º Andar - Pinheiros, São Paulo-SP. 05424-010;São Paulo-SP
+Centro Corporativo;N/A;CC/Holding;100;CC01;Motiva Infraestrutura de Mobilidade S.A.;02.846.056/0001-97;Eldorado Business Tower - Av. Dra. Ruth Cardoso, 8.501 - 5° andar - Pinheiros, São Paulo - SP, 05425-070;São Paulo-SP
+Aeroporto de Curitiba;Bloco Sul;CB/CWB;4000;GS09;Concessionaria do Bloco Sul S.a.;42.130.537/0009-73;Avenida Rocha Pombo, S/N - São José dos Pinhais-PR. 83010-900;São José dos Pinhais-PR
+Aeroporto de Goiânia;Bloco Central;GO/GYN;4100;GC07;Concessionaria do Bloco Central S.a.;42.206.269/0007-64;Alameda Aeroporto, S/N - Aeroporto Internacional Santa Genoveva, Goiânia-GO. 74672-839;Goiânia-GO
+Aeroporto de Foz do Iguaçu;Bloco Sul;FZ/IGU;4000;GS02;Concessionaria do Bloco Sul S.a.;42.130.537/0002-05;Estrada BR 469, Km 16,5 - Aeroporto Internacional, Foz do Iguaçu-PR. 85853-900;Foz do Iguaçu-PR
+Aeroporto de Imperatriz;Bloco Central;IZ/IMP;4100;GC04;Concessionaria do Bloco Central S.a.;42.206.269/0004-11;Avenida Moacyr Spósito Ribeiro, S / N - Aeroporto, Imperatriz-MA. 65913-415;Imperatriz-MA
+Motiva Filial;N/A;T&D/Supply/CSC;100;CC03;Motiva Infraestrutura de Mobilidade S.A.;02.846.056/0003-59;Av. Profª. Maria do Carmo Guimarães Pellegrini, 200 - Retiro, Jundiaí-SP. 13209-500;Jundiaí-SP
+Aeroporto de Joinville;Bloco Sul;JE/JOI;4000;GS08;Concessionaria do Bloco Sul S.a.;42.130.537/0008-92;Avenida Santos Dumont, 9000 - Joinville - SC. 89226-435;Joinville-SC
+Aeroporto de Londrina;Bloco Sul;LN/LDB;4000;GS07;Concessionaria do Bloco Sul S.a.;42.130.537/0007-01;Rua Tenente João Maurício Medeiros, 300 - Londrina-PR. 86039-100;Londrina-PR
+Linhas 8 e 9;N/A;ON/L89;4200;ON01;CONCESSIONARIA DAS LINHAS 8 E 9 DO SISTEMA DE TRENS METROPOLITANOS DE SAO PAULO S.A.;42.288.184/0001-87;Rua General Manoel de Azambuja Brilhante, 55 - Osasco-SP. 06010-160;Osasco-SP
+MetroBahia;N/A;MB/MBA;2800;MB01;COMPANHIA DO METRÔ DA BAHIA;18.891.185/0001-37;Rua dos Rodoviários, S/N - Retiro, Salvador-BA. 40301-110;Salvador-BA
+Aeroporto de Navegantes;Bloco Sul;NV/NVT;4000;GS05;Concessionaria do Bloco Sul S.a.;42.130.537/0005-40;Rua Osmar Gaya, 1297 - Meia Praia, Navegantes-SC. 88372-001;Navegantes-SC
+Aeroporto de Pelotas;Bloco Sul;PL/PET;4000;GS03;Concessionaria do Bloco Sul S.a.;42.130.537/0003-88;Avenida Zeferino Costa, 1300 - Pelotas-RS. 96070-480;Pelotas-RS
+Aeroporta da Pampulha;N/A;PAM/PLU;4300;PL01;Concessionaria do Aeroporto da Pampulha S.a.;44.140.908/0001-76;Praça Bagatelle, 204 - Aeroporto, Belo Horizonte-MG. 31270-705;Belo Horizonte-MG
+Aeroporto de Palmas;Bloco Central;PS/PMW;4100;GC03;Concessionaria do Bloco Central S.a.;42.206.269/0003-30;Avenida Joaquim Teotônio Segurado, S/N, Plano Diretor Expansão Sul - Palmas-TO. 77061-900;Palmas-TO
+Aeroporto de Petrolina;Bloco Central;PE/PNZ;4100;GC02;Concessionaria do Bloco Central S.a.;42.206.269/0002-50;Avenida Dr. Ulysses Guimarães, S/N - Expansão Urbana, Petrolina-PE. 56313-900;Petrolina-PE
+RioSP;N/A;RS/RSP;4400;RS01;CONCESSIONARIA DO SISTEMA RODOVIARIO RIO - SAO PAULO S.A.;44.319.688/0001-42;Rod Presidente Dutra, Roseira Velha, Km 78 - Roseira-SP. 12580-000;Roseira-SP
+Rodoanel;N/A;RA;1700;RA01;CONCESSIONARIA DO RODOANEL OESTE S/A;09.387.725/0001-59;Rodovia Rodoanel Mario Covas, KM 16 pista interna – Carapicuiba-SP. 06328-175;Carapicuiba-SP
+Aeroporto de São Luís;Bloco Central;SL/SLZ;4100;GC05;Concessionaria do Bloco Central S.a.;42.206.269/0005-00;Avenida dos Libaneses, Desembarque TPS1 - Ponto 1, 3503. São Luís-MA, 65056-480;São Luís-MA
+SPVias;N/A;SV/SPV;2100;SV01;RODOVIA INTEGRADAS DO OESTE S/A;03.497.792/0001-40;Rodovia Antonio Romano Schincariol, KM 112+400 - Guardinha, Tatuí-SP. 18277-670;Tatuí-SP
+Aeroporto de Teresina;Bloco Central;TA/THE;4100;GC03;Concessionaria do Bloco Central S.a.;42.206.269/0006-83;Avenida Centenário, S/N - Aeroporto - Teresina-PI. 64003-700;Teresina-PI
+Aeroporto de Uruguaiana;Bloco Sul;UA/URG;4000;GS06;Concessionaria do Bloco Sul S.a.;42.130.537/0006-20;Avenida Marechal Setembrino de Carvalho, S/N - Uruguaiana-RS. 97513-780;Uruguaiana-RS
+ViaCosteira;N/A;VC/VCT;3900;VC01;CONCESSIONARIA CATARINENSE DE RODOVIAS S.A.;36.763.716/0001-98;Rodovia BR 101, nº S/N, KM 325,5, bairro Vila Flor - Capivari de Baixo-SC. 88745-000;Capivari de Baixo-SC
+ViaMobilidade;N/A;VM;3500;VM01;SOCIEDADE PAULISTA DE MOBILIDADE;29.938.085/0001-35;Estrada de Itapecerica, 4157 - Capão Redondo, São Paulo-SP. 05858-001;São Paulo-SP
+ViaQuatro;N/A;VQ;1600;VQ01;CONCESSIONÁRIA DA LINHA 4 DO METRÔ DE SÃO PAULO S/A;07.682.638/0001-07;Rua Heitor dos Prazeres, 320 - Vila Sonia, São Paulo-SP. 05522-000;São Paulo-SP
+ViaRio;N/A;VR/TO;2600;TO01;CONCESSIONARIA VIARIO S.A;15.440.708/0001-30;Rua Euzébio de Almeida, 2500 - Jardim Sulacap, Rio de Janeiro-RJ. 21741-172;Rio de Janeiro-RJ
+ViaSul;N/A;VS/VSL;3700;VS01;CONCESSIONARIA DAS RODOVIAS INTEGRADAS DO SUL S.A;32.161.500/0001-00;Av. Paraná, 2435 - Navegantes, Porto Alegre-RS. 90240-600;Porto Alegre-RS
+VLT;N/A;VT/VLT;2700;VT01;CONCESSIONARIA DO VLT CARIOCA S.A.;18.201.378/0001-19;Rua da União, 11 - Rio de Janeiro-RJ. 20220-505;Rio de Janeiro-RJ
+PRVias;N/A;PR/PRV;4600;PR01;Concessionaria de Rodovias PRVias S.A.;59.196.897/0001-13;Condomínio Comercial 445, Rua Edwy Taques de Araújo nº 1000, Barracões B6B + B7A, Jardim Marx, Londrina-PR. 86047-790;Londrina-PR
+Sorocabana;N/A;SR/SRO;4500;SR01;CONCESSIONARIA ROTA SOROCABANA S.A.;58.484.141/0001-07;Rod Senador José Ermirio de Moraes - SP075 KM 8,5, Sorocaba-SP. 18010-000;Sorocaba-SP
+Pantanal;N/A;MV/PNT;3000;MV01;Concessionária de Rodovia Sul-Matogrossense S.A.;19.642.306/0001-70;Avenida Zilá Corrêa Machado, 5.600 – Moreninha, Campo Grande-MS. 79065-660;Campo Grande-MS
+MinasSP;N/A;MSP;;;Autopista Fernão Dias S.A.;09.326.342/0001-70;Rodovia Fernão Dias, BR-381, KM 850 - Pouso Alegre-MG. 37550-001;Pouso Alegre-MG
